@@ -28,3 +28,5 @@ langchain-classic
 wikipedia
 ipykernel
 langchainhub
+mysql-connector-python
+SQLAlchemy
