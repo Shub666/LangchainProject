@@ -36,3 +36,4 @@ unstructured
 pytubefix
 pytube
 numexpr
+gradio
